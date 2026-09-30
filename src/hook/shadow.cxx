@@ -1,4 +1,4 @@
-#include "shadow.hpp"
+#include "shadow.hxx"
 
 namespace pg::hook {
     namespace {

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "shadow.hpp"
+#include "shadow.hxx"
 
 #include <cstddef>
 #include <cstdint>
