@@ -1,9 +1,9 @@
 #pragma once
 
-#include "stack/transfer.hpp"
-#include "intercept/handler.hpp"
-#include "hook/physical.hpp"
-#include "hook/shadow.hpp"
+#include "stack/transfer.hxx"
+#include "intercept/handler.hxx"
+#include "hook/physical.hxx"
+#include "hook/shadow.hxx"
 
 // PatchGuard exception-path blocker.
 // Call pg::install() once the host kernel / paging / dpm layers are ready.
