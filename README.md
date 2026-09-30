@@ -1,4 +1,4 @@
-# PatchGuard
+# patchguard-blocker
 
 Stops PatchGuard on the exception path, not by walking every worker.
 
